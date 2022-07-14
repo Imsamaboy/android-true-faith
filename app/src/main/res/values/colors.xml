@@ -7,4 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="main_back">#050B18</color>
+    <color name="under_picture">#C4C4C4</color>
+    <color name="description">#EEF2FB</color>
+    <color name="symbol_color">#1F2430</color>
+    <color name="symbol_color1">#000000</color>
+    <color name="name_color">#FFFFFF</color>
+    <color name="downloads">#45454D</color>
+    <color name="review">#EEF2FB</color>
+    <color name="panel">#44A9F4D3</color>
+    <color name="text_panel">#41A0E7</color>
+    <color name="number_of_reviewers">#A8ADB7</color>
+    <color name="install">#F4D144</color>
+    <color name="text_install">#050B18</color>
 </resources>
